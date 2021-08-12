@@ -5,7 +5,7 @@ SRC = $(wildcard ./src/*.c)
 
 TEST_SRC = ./test/main.c
 
-TARGET_NAME = ./out/dynamic_array
+TARGET_NAME = ./out/dynamic_array.o
 
 TEST_NAME = ./out/test
 
